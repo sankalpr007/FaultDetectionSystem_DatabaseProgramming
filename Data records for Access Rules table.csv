@@ -1,0 +1,17 @@
+﻿Times when access is allowed,Id,Role,Component allowed for access,Request type allowed
+00:00:00 to 23:59:59,User A,Analyst,Table 1,Append
+00:00:00 to 23:59:59,User A,Analyst,Table 1,Select
+00:00:00 to 23:59:59,User A,Analyst,Element 1,Append
+00:00:00 to 23:59:59,User A,Analyst,Element 1,Select
+00:00:00 to 23:59:59,User B,Business,Table 2,Append
+00:00:00 to 23:59:59,User B,Business,Table 2,Select
+00:00:00 to 23:59:59,User B,Business,Element 2,Append
+00:00:00 to 23:59:59,User B,Business,Element 2,Select
+00:00:00 to 23:59:59,User C,Administrator,Table 1,Append
+00:00:00 to 23:59:59,User C,Administrator,Table 1,Select
+00:00:00 to 23:59:59,User C,Administrator,Table 2,Append
+00:00:00 to 23:59:59,User C,Administrator,Table 2,Select
+00:00:00 to 23:59:59,User C,Administrator,Element 1,Append
+00:00:00 to 23:59:59,User C,Administrator,Element 1,Select
+00:00:00 to 23:59:59,User C,Administrator,Element 2,Append
+00:00:00 to 23:59:59,User C,Administrator,Element 2,Select
